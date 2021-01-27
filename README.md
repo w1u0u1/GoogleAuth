@@ -1,2 +1,8 @@
 # GoogleAuth
-The application requests an access token from the Google Authorization Server, extracts a token from the response, and sends the token to the Google API that you want to access.
+The application requests an access token from the Google Authorization Server, extracts a token from the response.    
+![Screenshot](Capture.PNG)
+
+# basic
+vs2019 + net4.0 + c#
+
+# usage
