@@ -6,3 +6,7 @@ The application requests an access token from the Google Authorization Server, e
 vs2019 + net4.0 + c#
 
 # usage
+<pre>
+    First: GetAuthCode
+    Second: Auth
+</pre>
